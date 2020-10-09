@@ -1,0 +1,125 @@
+a {
+  color: #AFF0E6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr {
+  border: 7px dotted;
+  border-bottom: 0;
+  width: 10%;
+  color: #AFF0E6;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+.title {
+  margin: 6% auto 0;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+
+.subtitle {
+  margin: 0 auto 2%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.top-div {
+  padding-top: 15%;
+  background-color:  #EAF6F6;
+  margin: 0;
+}
+
+.cloud1 {
+  position: absolute;
+  left: 20%;
+  top: 40%;
+}
+
+.cloud2 {
+  position: absolute;
+  right: 17%;
+  top: 15%;
+}
+
+.profile {
+  margin: 20px;
+}
+
+.skill-row {
+width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.chilli {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+  padding-top: 25px;
+}
+
+.computer {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+  padding-top: 25px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 30px auto;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 9px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+  background: #7AECEC;
+  border: solid #7AECEC 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+}
+
+.margin {
+  margin: 10px auto 0;
+}
